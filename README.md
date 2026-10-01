@@ -23,18 +23,6 @@ The main objectives of this project are to:
 
 ---
 
-## Dashboard Preview
-
-### Dashboard Page 1
-
-![Dashboard Page 1](screenshots/dashboard-page-1.png)
-
-### Dashboard Page 2
-
-![Dashboard Page 2](screenshots/dashboard-page-2.png)
-
----
-
 ## Dashboard Analysis
 
 ### Sales by Region
@@ -154,8 +142,6 @@ power-bi-retail-sales-analysis/
 │   └── code_reference.xlsx
 │
 └── screenshots/
-    ├── dashboard-page-1.png
-    └── dashboard-page-2.png
 ```
 
 ---
