@@ -27,13 +27,11 @@ The main objectives of this project are to:
 
 ### Dashboard Page 1
 
-![Dashboard Page 1](<img width="1125" height="632" alt="Screenshot 2026-10-01 051841" src="https://github.com/user-attachments/assets/28de0145-5664-4620-be69-7b767205ed44" />
-)
+![Dashboard Page 1](screenshots/dashboard-page-1.png)
 
 ### Dashboard Page 2
 
-![Dashboard Page 2](<img width="1126" height="631" alt="Screenshot 2026-10-01 051853" src="https://github.com/user-attachments/assets/1da09085-d676-4c18-85c0-2f309a2d38f0" />
-)
+![Dashboard Page 2](screenshots/dashboard-page-2.png)
 
 ---
 
